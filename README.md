@@ -25,3 +25,8 @@ editor-v2/
 ├── packages/
 │   ├── core/            # Schema definitions, state management, systems
 │   └── viewer/          # 3D rendering components
+
+参考：
+https://niutgames.com/pascal-homeassistant/
+仓库
+https://github.com/Niutels/editor
